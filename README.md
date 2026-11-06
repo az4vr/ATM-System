@@ -5,12 +5,12 @@ An ATM Management System that allows users to securely log in using their accoun
 A simple ATM Management System that allows users to log in using their credentials and perform basic banking operations.
 
 # Features
-Login with Account Number and PIN
-Quick Withdrawal
-Normal Withdrawal
-Cash Deposit
-Check Balance
-Logout
+- Login with Account Number and PIN
+- Quick Withdrawal
+- Normal Withdrawal
+- Cash Deposit
+- Check Balance
+- Logout
 
 # Screenshots
 <img width="1920" height="1080" alt="Login with credential using account number and Pincode" src="https://github.com/user-attachments/assets/b33dc515-108a-4cca-97f9-c9c5b03fa751" />
